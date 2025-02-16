@@ -4,7 +4,7 @@ const ageSpan = document.querySelector("#age");
 const statusSpan = document.querySelector("#status");
 const btnUpdateProfile = document.querySelector("#updateBtn");
 
-const isWizard = confirm("Are you a wizard?");
+const isWizard = confirm("Are you a wizard??");
 
 if(isWizard === true){
     console.log("Welcome to Hogwarts!");
